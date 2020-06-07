@@ -9,8 +9,8 @@ Use "deno --allow-read --allow-net server.ts" to execute the server.
 Use postman to test out API endpoints.
 
 ## API ENDPOINTS
-GET /api/items - Returns all items
-GET /api/items/:id - Returns one item with a given id
-POST /api/items - Adds an item to the list
-PUT /api/items/:id - Updates the item with a given id
-DELETE /api/items/:id - Deletes the item with a given id
+* GET /api/items - Returns all items
+* GET /api/items/:id - Returns one item with a given id
+* POST /api/items - Adds an item to the list
+* PUT /api/items/:id - Updates the item with a given id
+* DELETE /api/items/:id - Deletes the item with a given id
